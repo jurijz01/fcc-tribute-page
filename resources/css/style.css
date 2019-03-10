@@ -30,7 +30,7 @@ h2, h3 {
 
 #image {
   width: 100%; 
-  padding: 12rem;
+  padding: 3rem;
   -webkit-box-shadow: .1rem .2rem 1.3rem .6rem rgba(50,50,50,0.81); 
   box-shadow: .1rem .2rem 1.3rem .6rem rgba(50,50,50,0.81);
 }
@@ -126,6 +126,6 @@ footer {
   #image {
     width: 100%;
     height: auto;
-    padding: 2.5rem;
+    padding: 1.8rem;
   }
 }
